@@ -1,0 +1,10 @@
+# Requirements for KickLabPro
+
+- Flask
+- SQLAlchemy
+- requests
+- numpy
+- pandas
+
+# Use the following command to install the requirements
+pip install -r requirements.txt
